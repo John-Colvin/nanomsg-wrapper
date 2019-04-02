@@ -6,6 +6,4 @@ d-nanomsg
 * Examples are from [dysinger](https://github.com/dysinger/nanomsg-examples/blob/master/README.org)
     - I have added one more example: filesend.d that demonstrates sending a text file
 
-status
--------
-Please be aware that this is of beta quality, and that I have not tested on Windows.
+
